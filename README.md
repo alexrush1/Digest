@@ -1,3 +1,3 @@
 # Digest
 
-github integration...
+github integration... done!
